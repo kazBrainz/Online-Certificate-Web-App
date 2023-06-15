@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Certificate</title>
+    <link
+      rel="stylesheet"
+      href="assets/vendors/bootstrap/dist/css/bootstrap.min.css"
+    />
+    <link rel="stylesheet" href="assets/css/style.css" />
+
+  </head>
+  <body onload="getName()">
+ 
+    <div class="">
+      <div class="mt-2 mx-2">
+        <!-- <a href="#" class="h5 text-decoration-none text-success ">HOME</a> -->
+        <button id="printPageButton"
+          class="btn btn-sm btn-light text-success fw-normal shadow-none"
+          onclick="window.print()"
+        >
+          Print Certificate
+        </button>
+        <a href="">
+        <button id=""
+          class="btn btn-sm btn-light text-success fw-normal shadow-none"
+       style="float: right;" >
+          Home
+        </button>
+      </a>
+        <!-- <button
+          class="btn btn-sm btn-light text-success fw-normal shadow-none"
+          onclick="window.print()"
+        >
+          Print Certificate
+        </button> -->
+      </div>
+      <div class="mt-2 mx-2">
+      </div>
+      <div class="certificate" id="print">
+      <div class="cert mt-5 m-auto" id="cert">
+        <img class="cert-img" src="assets/image/botcert2.png" alt="" />
+        <p id="myDiv" class="name"></p>
+        </div>
+      </div>
+    </div>
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>

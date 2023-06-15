@@ -1,0 +1,22 @@
+[14-Jun-2023 16:14:50 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/tedprime/public_html/Botswana/db.php on line 6
+[14-Jun-2023 16:46:08 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home2/tedprime/public_html/Botswana/db.php on line 6
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 3
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
+[14-Jun-2023 19:53:59 UTC] PHP Notice:  Undefined index: email in /home2/tedprime/public_html/Botswana/email_check.php on line 7
